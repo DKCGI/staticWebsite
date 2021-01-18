@@ -1,2 +1,2 @@
-# staticWebsite
+# studyGuide
 Free Static Github Page
